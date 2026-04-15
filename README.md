@@ -1,2 +1,13 @@
 # CAD-MACROPAD
 A miniaturized keyboard with specific functions and shortcuts that will make using CAD software easier
+
+[CAD MACROPAD-bom.csv](https://github.com/user-attachments/files/26739982/CAD.MACROPAD-bom.csv)
+
+Name, Purpose, Quantity, Total Cost (USD), Link, Distributor
+|---:|---|---|---|---|---:|
+| 800 point breadboard | Component wiring | 1 | 2.80 | https://www.aliexpress.com/item/1005005203255196.html | Aliexpress |
+| Passive Buzzer | Sound Feedback | 1 | 0.90 | https://www.aliexpress.com/item/1005007103345345.html | Aliexpress |
+| OLED Display | Visual Feedback and display | 1 | 2.25 | https://www.aliexpress.com/item/1005006141235306.html | Aliexpress |
+| Raspberry pi pico RP2040 | Main micro controller for processing inputs | 1 | 6.90 | https://www.aliexpress.com/item/1005006646086759.html | Aliexpress |
+| Analog Joystick Module | Analog X/Y input for navigation | 1 | 2.70 | https://www.aliexpress.com/item/1005010044021193.html | Aliexpress |
+| Rotary Encoder | Rotational input with click function | 1 | 1.25 | https://www.aliexpress.com/item/1005009040530746.html | Aliexpress |
