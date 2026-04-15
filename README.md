@@ -1,9 +1,10 @@
 # CAD-MACROPAD
 A miniaturized keyboard with specific functions and shortcuts that will make using CAD software easier
 
+# Bill of Materials
 [CAD MACROPAD-bom.csv](https://github.com/user-attachments/files/26739982/CAD.MACROPAD-bom.csv)
 
-Name, Purpose, Quantity, Total Cost (USD), Link, Distributor
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---:|---|---|---|---|---:|
 | 800 point breadboard | Component wiring | 1 | 2.80 | https://www.aliexpress.com/item/1005005203255196.html | Aliexpress |
 | Passive Buzzer | Sound Feedback | 1 | 0.90 | https://www.aliexpress.com/item/1005007103345345.html | Aliexpress |
