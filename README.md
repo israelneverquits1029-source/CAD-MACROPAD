@@ -6,13 +6,17 @@ I actually decided to make this project out of personal frustration with the fun
 
 # Images
 
-<img width="548" height="316" alt="CMP image 1" src="https://github.com/user-attachments/assets/307a501d-5d9a-4902-abd8-4971b2c55f4b" />
+<img width="660" height="512" alt="Screenshot 2026-05-09 074050" src="https://github.com/user-attachments/assets/b10e2156-37c1-4f74-9203-438cc5859c33" />
 
-<img width="591" height="417" alt="CMP image 2" src="https://github.com/user-attachments/assets/78d1f20b-09bb-4971-a71d-4810719199d9" />
+<img width="363" height="532" alt="Screenshot 2026-05-09 080750" src="https://github.com/user-attachments/assets/1de9e1bd-f82b-475f-966c-11bee6a66c14" />
+
+<img width="584" height="533" alt="Screenshot 2026-05-09 080838" src="https://github.com/user-attachments/assets/b2f45e2b-50a9-452f-b0ce-660413ca2975" />
+
+<img width="620" height="388" alt="Screenshot 2026-05-09 081138" src="https://github.com/user-attachments/assets/ae6b491e-29ac-4c23-bb92-e59463670204" />
 
 # Full CAD Model
 
-<img width="584" height="463" alt="3D Model 2" src="https://github.com/user-attachments/assets/a97abe1b-5751-4ab5-b7d9-2f29d44fd4b8" />
+<img width="635" height="494" alt="Screenshot 2026-05-09 073650" src="https://github.com/user-attachments/assets/59f53757-0ceb-43d5-a466-015718bc87b0" />
 
 # Wiring Diagram
 
