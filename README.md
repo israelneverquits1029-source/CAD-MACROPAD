@@ -1,4 +1,4 @@
-# CAD-MACROPAD
+[CAD MACROPAD-bom (2).csv](https://github.com/user-attachments/files/27556405/CAD.MACROPAD-bom.2.csv)# CAD-MACROPAD
 A miniaturized keyboard with specific functions and shortcuts that will make using CAD software easier
 It uses a raspberry pi pico RP2040 as the main microcontroller and has alot of features like a way to switch between multiple software according to your needs. This version is proposed to work with Fusion360, KiCAD and Blender.
 
@@ -27,6 +27,7 @@ I actually decided to make this project out of personal frustration with the fun
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---:|---|---|---|---|---:|
+| Printed Case | The case for the project | 1 | 9.00 | https://stasis.hackclub.com/dashboard/projects/cmnx6mpds00uy01qgtn5vuzms | printing-legion |
 | m3 screws | Holding the top and bottom pieces of the case together | 1 | 1.80 | https://www.aliexpress.com/item/4000982209705.html | Aliexpress |
 | Silicone electric copper cable | Wires for connecting the components in the final assembly | 1 | 3.80 | https://www.aliexpress.com/item/1005008899104758.html | Aliexpress |
 | Soldering iron kit | Connecting components inside the final case | 1 | 10.00 | https://www.aliexpress.com/item/1005007295550389.html | Aliexpress |
@@ -36,3 +37,5 @@ I actually decided to make this project out of personal frustration with the fun
 | Raspberry pi pico RP2040 | Main micro controller for processing inputs | 1 | 6.00 | https://www.aliexpress.com/item/1005006646086759.html | Aliexpress |
 | Analog Joystick Module | Analog X/Y input for navigation | 1 | 1.00 | https://www.aliexpress.com/item/1237290993.html | Aliexpress |
 | Rotary Encoder | Rotational input with click function | 1 | 1.25 | https://www.aliexpress.com/item/1005009040530746.html | Aliexpress |
+
+[Uploading CAD MACROPAD-bom (2).cName,Purpose,Quantity,Total Cost (USD),Link,Distributor
