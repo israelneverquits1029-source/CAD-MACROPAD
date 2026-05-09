@@ -19,13 +19,16 @@ I actually decided to make this project out of personal frustration with the fun
 <img width="666" height="349" alt="CAD MacroPad Prototype 1" src="https://github.com/user-attachments/assets/ff39df46-2c5f-406a-95dc-71edf074f948" />
 
 # Bill of Materials
-[CAD MACROPAD-bom.csv](https://github.com/user-attachments/files/26739982/CAD.MACROPAD-bom.csv)
+[CAD MACROPAD-bom (1).csv](https://github.com/user-attachments/files/27548343/CAD.MACROPAD-bom.1.csv)
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---:|---|---|---|---|---:|
-| 800 point breadboard | Component wiring | 1 | 2.80 | https://www.aliexpress.com/item/1005005203255196.html | Aliexpress |
-| Active Buzzer | Sound Feedback | 1 | 0.90 | https://www.aliexpress.com/item/1005007103345345.html | Aliexpress |
+| m3 screws | Holding the top and bottom pieces of the case together | 1 | 1.80 | https://www.aliexpress.com/item/4000982209705.html | Aliexpress |
+| Silicone electric copper cable | Wires for connecting the components in the final assembly | 1 | 3.80 | https://www.aliexpress.com/item/1005008899104758.html | Aliexpress |
+| Soldering iron kit | Connecting components inside the final case | 1 | 10.00 | https://www.aliexpress.com/item/1005007295550389.html | Aliexpress |
+| Active buzzer | Sound alerts | 1 | 2.10 | https://www.aliexpress.com/item/32949954569.html | AliExpress |
+| 800 point breadboard | Circuit Prototyping | 1 | 2.80 | https://www.aliexpress.com/item/1005005203255196.html | Aliexpress |
 | OLED Display | Visual Feedback and display | 1 | 2.25 | https://www.aliexpress.com/item/1005006141235306.html | Aliexpress |
-| Raspberry pi pico RP2040 | Main micro controller for processing inputs | 1 | 6.90 | https://www.aliexpress.com/item/1005006646086759.html | Aliexpress |
-| Analog Joystick Module | Analog X/Y input for navigation | 1 | 2.70 | https://www.aliexpress.com/item/1005010044021193.html | Aliexpress |
+| Raspberry pi pico RP2040 | Main micro controller for processing inputs | 1 | 6.00 | https://www.aliexpress.com/item/1005006646086759.html | Aliexpress |
+| Analog Joystick Module | Analog X/Y input for navigation | 1 | 1.00 | https://www.aliexpress.com/item/1237290993.html | Aliexpress |
 | Rotary Encoder | Rotational input with click function | 1 | 1.25 | https://www.aliexpress.com/item/1005009040530746.html | Aliexpress |
